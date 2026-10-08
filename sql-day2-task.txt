@@ -1,5 +1,4 @@
-                                                   SQL TASK 1
-89 SQL queries
+
 
 1.
      CREATE DATABASE LibraryDB;
